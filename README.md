@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/p33yush/Leet-Codes/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/p33yush/Leet-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -39,9 +40,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/p33yush/Leet-Codes/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/p33yush/Leet-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/p33yush/Leet-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/p33yush/Leet-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/p33yush/Leet-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/p33yush/Leet-Codes/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
