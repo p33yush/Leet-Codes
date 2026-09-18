@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/p33yush/Leet-Codes/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/p33yush/Leet-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/p33yush/Leet-Codes/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
 | ------- |
