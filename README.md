@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/p33yush/Leet-Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/p33yush/Leet-Codes/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/p33yush/Leet-Codes/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/p33yush/Leet-Codes/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/p33yush/Leet-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/p33yush/Leet-Codes/tree/master/0090-subsets-ii) |
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
@@ -84,9 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/p33yush/Leet-Codes/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/p33yush/Leet-Codes/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/p33yush/Leet-Codes/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/p33yush/Leet-Codes/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/p33yush/Leet-Codes/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
