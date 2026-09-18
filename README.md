@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/p33yush/Leet-Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/p33yush/Leet-Codes/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/p33yush/Leet-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/p33yush/Leet-Codes/tree/master/0090-subsets-ii) |
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/p33yush/Leet-Codes/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/p33yush/Leet-Codes/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/p33yush/Leet-Codes/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/p33yush/Leet-Codes/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
