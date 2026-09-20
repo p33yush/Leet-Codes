@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/p33yush/Leet-Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/p33yush/Leet-Codes/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/p33yush/Leet-Codes/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/p33yush/Leet-Codes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/p33yush/Leet-Codes/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/p33yush/Leet-Codes/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/p33yush/Leet-Codes/tree/master/0074-search-a-2d-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/p33yush/Leet-Codes/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/p33yush/Leet-Codes/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/p33yush/Leet-Codes/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/p33yush/Leet-Codes/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/p33yush/Leet-Codes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/p33yush/Leet-Codes/tree/master/0160-intersection-of-two-linked-lists) |
