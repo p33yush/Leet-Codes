@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/p33yush/Leet-Codes/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/p33yush/Leet-Codes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/p33yush/Leet-Codes/tree/master/0042-trapping-rain-water) |
+| [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -106,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/p33yush/Leet-Codes/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
