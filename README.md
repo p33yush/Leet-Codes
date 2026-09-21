@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/p33yush/Leet-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/p33yush/Leet-Codes/tree/master/0090-subsets-ii) |
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/p33yush/Leet-Codes/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/p33yush/Leet-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
@@ -39,16 +40,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/p33yush/Leet-Codes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/p33yush/Leet-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/p33yush/Leet-Codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/p33yush/Leet-Codes/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -122,4 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
