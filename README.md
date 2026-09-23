@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/p33yush/Leet-Codes/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/p33yush/Leet-Codes/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/p33yush/Leet-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/p33yush/Leet-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/p33yush/Leet-Codes/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -90,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/p33yush/Leet-Codes/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/p33yush/Leet-Codes/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/p33yush/Leet-Codes/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/p33yush/Leet-Codes/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
