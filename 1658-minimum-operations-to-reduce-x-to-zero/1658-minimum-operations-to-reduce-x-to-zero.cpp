@@ -1,25 +1,26 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
+        int left = 0;
+        int currSum = 0;
+        int sum = accumulate(nums.begin(),nums.end(),0);
 
-        int tar = accumulate(nums.begin(),nums.end(),0);
-        tar=tar-x;
-        unordered_map<int,int> mp;
-        mp[0]=-1;
+        int tar= sum-x;
         int mx=-1;
-        int t=0;
-        int len=0;
+        if(tar<0) return -1;
+        if(tar==0) return nums.size();
 
-        for(int i=0;i<nums.size();i++){
-            t+=nums[i];
-            if(mp.find(t)==mp.end()){
-                mp[t]=i;
+        for(int right = 0;right<nums.size();right++){
+            currSum+=nums[right];
+            while(currSum > tar){
+                currSum -= nums[left];
+                left++;
             }
-            if(mp.find(t-tar)!=mp.end()){
-                len = i - mp[t - tar];
-                mx=max(mx,len);
+            if(currSum == tar){
+                mx=max(mx,right-left+1);
             }
         }
-        return mx == -1 ? -1 : nums.size()-mx;
+
+        return mx==-1?-1:nums.size()-mx;
     }
 };
