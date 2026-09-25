@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/p33yush/Leet-Codes/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/p33yush/Leet-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/p33yush/Leet-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/p33yush/Leet-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/p33yush/Leet-Codes/tree/master/0540-single-element-in-a-sorted-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/p33yush/Leet-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/p33yush/Leet-Codes/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/p33yush/Leet-Codes/tree/master/0496-next-greater-element-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/p33yush/Leet-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/p33yush/Leet-Codes/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/p33yush/Leet-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/p33yush/Leet-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
