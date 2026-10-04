@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/p33yush/Leet-Codes/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/p33yush/Leet-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/p33yush/Leet-Codes/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/p33yush/Leet-Codes/tree/master/0994-rotting-oranges) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/p33yush/Leet-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/p33yush/Leet-Codes/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/p33yush/Leet-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/p33yush/Leet-Codes/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/p33yush/Leet-Codes/tree/master/0155-min-stack) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/p33yush/Leet-Codes/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
