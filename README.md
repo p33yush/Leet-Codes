@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/p33yush/Leet-Codes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/p33yush/Leet-Codes/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/p33yush/Leet-Codes/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/p33yush/Leet-Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/p33yush/Leet-Codes/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/p33yush/Leet-Codes/tree/master/0994-rotting-oranges) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/p33yush/Leet-Codes/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
